@@ -1,0 +1,9 @@
+name: FDReLoaded
+version: 1.6
+main: me.MrRafter.FrameDupe
+authors:
+  - Jaswin
+description: FrameDupe For All Versions Of Minecraft
+commands:
+  framedupe:
+    aliases: [fd]
